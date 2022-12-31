@@ -1,6 +1,11 @@
 # Yes-Bank-Closing-Price-Prediction
 Almabetter Capstone Project of Yes bank price prediction.
-Capstone Project -Supervised Learning (Regression) Our problem statement -Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month
+Capstone Project -Supervised Learning (Regression) Our problem statement -Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month.
+
+
+![yes-bank-share-price-target (1)](https://user-images.githubusercontent.com/113955196/210153180-a3947bcf-00d3-4b11-b14c-9ab6f094f03f.jpg)
+
+
 
 Our main motive of the project was to predict the stock's closing price of the month. To determine the YES bank's stock’s future value on the national stock exchange. The advantage of a successful prediction of a stock's future price could results insignificant profit. The efficient-market hypothesis recommends that stock costs mirror all right now accessible data and any value changes that are not founded on recently uncovered data subsequently are an unpredictable. We have to build model which help us to predict the future stock prices. The stock market is known for being volatile, dynamic, and nonlinear. Accurate stock price prediction is extremely challenging because of multiple (macro and micro) factors, such as politics, global economic conditions, unexpected events, a company’s financial performance, and so on. But, all of this also means that there’s a lot of data to find patterns in. So, financial analysts, researchers, and data scientists keep exploring analytics techniques to detect stock market trends. This gave rise to the concept of algorithmic trading which uses automated, pre-programmed trading strategies to execute orders.
 
